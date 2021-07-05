@@ -67,7 +67,7 @@ h2{
     border-image-slice:1;
 
 }
-#secand-part{
+#second-part{
     border-left:7px solid;
     border-image:linear-gradient(blue,green);
     border-image-slice:4;  
